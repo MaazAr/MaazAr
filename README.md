@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Maaz</h1>
-<h3 align="center">A passionate software/hardware enthusiast from India</h3>
+<h3 align="center">Founder of Nez Development Studio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maazar&label=Profile%20views&color=0e75b6&style=flat" alt="maazar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maazar" alt="maazar" /></a> </p>
 
-- 🔭 I’m currently working on **Crypto Trading Bots**
+- 🔭 I’m currently working on **Getting more projects**
 
 - 🌱 I’m currently learning **React Native, React**
 
-- 👯 I’m looking to collaborate on **Quantitative Analysis**
+- 👯 I’m looking to collaborate on **Any Development Projects**
 
 - 🤝 I’m looking for help with **Trading Strategies**
 
 - ⚡ Fun fact [I'm a Fan of Dragon Ball]
 
-- 💬 Ask me about **Python, Requests, Websockets, Javascript**
+- 💬 Ask me about **Python, Websockets, Javascript**
 
 - 📫 How to reach me **maaz@lynxcx.com**
 
